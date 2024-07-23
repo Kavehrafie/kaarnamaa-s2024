@@ -265,3 +265,28 @@ backgroundSize: contain
 
 Jean-Baptiste Greuze, *A Girl with a Dead Canary*. 1765
 </Caption>
+
+---
+dir: rtl
+class: flex gap-4
+---
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jean-Baptiste_Greuze_-_A_Girl_with_a_Dead_Canary_-_Google_Art_Project.jpg/1733px-Jean-Baptiste_Greuze_-_A_Girl_with_a_Dead_Canary_-_Google_Art_Project.jpg){width=390px}
+
+«اما دختر کوچولوی من، غم تو چقدر از درون و ژرف اندیشانه (recflective) است!»
+
+---
+layout: image
+image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1721735565409949886.png
+backgroundSize: 70%
+---
+
+---
+layout: compare
+image1:
+ src: https://th.bing.com/th/id/R.56b5f0dd850a7f36ee3545070687c909?rik=eFutx%2bR0SCiuTQ&riu=http%3a%2f%2fplatypus1917.org%2fwp-content%2fuploads%2f2011%2f01%2fchardin_cards.jpg&ehk=d6rp8zVpQAH7gGyPlQk0wYlyfzNcQ9PqTUL5F55oVYs%3d&risl=&pid=ImgRaw&r=0
+ alt: Chardin, Boy Playing Cards, 1740
+image2:
+ src: https://images.fineartamerica.com/images-medium-large-5/soap-bubbles-jean-simeon-chardin.jpg
+ alt: Chardin, Soap Bubbles
+
+---
