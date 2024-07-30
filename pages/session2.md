@@ -134,6 +134,11 @@ note: included in 1822 salon, resulted in a controversy
 - Theophile Gautier appreciated the work
 -->
 
+---
+layout: image-caption
+src: https://www.everypainterpaintshimself.com/blog_images/Ingres_vs_Delacroix.jpg
+caption: دوئل میان انگر و دلاکروا
+---
 
 ---
 layout: image-caption

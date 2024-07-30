@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted } from 'vue'
+import { onMounted, computed } from 'vue'
 import { useNumberTranslation } from '../snippets/external'
 type Props = {
     image: string
@@ -7,9 +7,13 @@ type Props = {
 }
 
 const props = defineProps<Props>()
-let img = new Image();
-img.src = props.image
-let ratio = img.width / img.height
+
+const ratio = computed(() => {
+    let img = new Image();
+    img.src = props.image
+    return img.width / img.height
+})
+
 
 const { convertNumbers } = useNumberTranslation()
 
