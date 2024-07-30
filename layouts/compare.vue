@@ -12,7 +12,7 @@ defineProps({
 </script>
 
 <template>
-  <div class="slidev-layout grid grid-cols-2 gap-4">
+  <div class="slidev-layout grid grid-cols-2 gap-4 place-items-center">
     <div v-if="image1">
       <img class="max-h-[70vh]" :src="image1?.src" :alt="image1?.alt">
       <span class="text-xs leading-tight">{{ image1?.alt }}</span>

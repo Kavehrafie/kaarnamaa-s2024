@@ -12,7 +12,8 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-dir: rtl
+html:
+  dir: rtl
 fonts:
   provider: google  # basically the text  
   sans: 'Vazirmatn'  # use with `font-serif` css class from windicss  
@@ -32,4 +33,8 @@ fonts:
 
 ---
 src: ./pages/session1.md
+---
+
+---
+src: ./pages/session2.md
 ---
