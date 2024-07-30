@@ -1,5 +1,6 @@
 <script setup lang="ts">
-
+import { onMounted } from 'vue'
+import { useNumberTranslation } from '../snippets/external'
 type Props = {
     image: string
     caption: string
@@ -9,6 +10,17 @@ const props = defineProps<Props>()
 let img = new Image();
 img.src = props.image
 let ratio = img.width / img.height
+
+const { convertNumbers } = useNumberTranslation()
+
+onMounted(() => {
+    const elements = document.querySelectorAll('.slidev-layout *')
+    elements.forEach(el => {
+        if (el.childNodes.length === 1 && el.childNodes[0].nodeType === Node.TEXT_NODE) {
+            el.textContent = convertNumbers(el.textContent || '')
+        }
+    })
+})
 
 </script>
 <template>
@@ -21,7 +33,7 @@ let ratio = img.width / img.height
             <p class="text-sm text-right w-full">{{ props.caption }}</p>
             <img class="w-full max-h-[75vh] object-contain" :src="props.image" :alt="props.caption">
         </div>
-        <div class="absolute top-10 left-10fflex justify-center items-center flex-col   ">
+        <div class="absolute top-10 left-10 flex justify-center items-center flex-col   ">
             <slot />
         </div>
     </div>
