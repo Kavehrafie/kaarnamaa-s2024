@@ -4,7 +4,7 @@ dir: rtl
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg
 ---
 
-# نشست دوم: بین الملل انتقادی {#session2}
+# نشست دوم: بین الملل انتقادی {id="session2"}
 ### قسمت اول
 
 ---

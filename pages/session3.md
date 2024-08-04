@@ -1,9 +1,10 @@
 ---
-layout: center
+layout: image
 dir: rtl
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Slave-ship.jpg/1280px-Slave-ship.jpg
 ---
-
-## انگلیس
+## تولید هنری در عصر انقلاب صنعتی
+# نشست سوم:  بین المللی انتقادی (قسمت دوم)
 
 ---
 layout: image-caption
@@ -23,10 +24,27 @@ image2:
 ---
 
 ---
+layout: compare
+dir: rtl
+image1:
+    src: https://victorianweb.org/victorian/painting/ruskin/wc/18.jpg
+    alt: جان راسکین، «اسکولا دی سنت مارکوس»، 1876، آبرنگ  
+image2:
+    src: https://monovisions.com/wp-content/uploads/2015/06/historic-bw-photos-of-venice-italy-in-19th-century-06.jpg
+    alt: ونیز قرن نوزدهم
+---
+
+---
 layout: image-caption
+dir: rtl
 image: https://collectionapi.metmuseum.org/api/collection/v1/iiif/342383/755324/main-image
 caption: جان راسکین، «ایوان کاخ دوکال»، 1850
 ---
+
+> بزرگترین کاری که یک روح انسان در این دنیا انجام می دهد این است که چیزی را ببیند و آنچه را که دیده است به روشی واضح بگوید. صدها نفر می توانند به جای کسی که می تواند فکر کند صحبت کنند، اما هزاران نفر می توانند برای کسی که می بیند فکر کنند. واضح دیدن شعر، نبوت و دین است، همه در یک. {class="max-w-sm"}
+
+راسکین، «نقاشان مدرن»{class="text-xs"}
+
 
 ---
 layout: image-caption

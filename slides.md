@@ -4,7 +4,7 @@ theme: apple-basic
 layout: intro-image
 image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1721702367572347412.jpg?format=auto&blur=3
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: نقدهنری
 
 drawings:
   persist: false
@@ -31,13 +31,19 @@ fonts:
     </span>
 </div>
 ---
+layout: section
 dir: rtl
 ---
 
-#عناوین
-- [جلسه اول]()
-- [جلسه دوم](#session2)
-- [جلسه سوم]()
+##   عناوین{class="hidden"}
+
+<Toc minDepth="1" maxDepth="1" />
+
+[//]: # (- [جلسه اول]&#40;&#41;)
+
+[//]: # (- [جلسه دوم]&#40;#session2&#41;)
+
+[//]: # (- [جلسه سوم]&#40;&#41;)
 
 
 
