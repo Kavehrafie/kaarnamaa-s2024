@@ -30,6 +30,16 @@ fonts:
         تابستان ۱۴۰۳
     </span>
 </div>
+---
+dir: rtl
+---
+
+#عناوین
+- [جلسه اول]()
+- [جلسه دوم](#session2)
+- [جلسه سوم]()
+
+
 
 ---
 src: ./pages/session1.md
@@ -37,4 +47,8 @@ src: ./pages/session1.md
 
 ---
 src: ./pages/session2.md
+---
+
+---
+src: ./pages/session3.md
 ---
