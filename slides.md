@@ -39,14 +39,6 @@ dir: rtl
 
 <Toc minDepth="1" maxDepth="1" />
 
-[//]: # (- [جلسه اول]&#40;&#41;)
-
-[//]: # (- [جلسه دوم]&#40;#session2&#41;)
-
-[//]: # (- [جلسه سوم]&#40;&#41;)
-
-
-
 ---
 src: ./pages/session1.md
 ---
@@ -58,3 +50,4 @@ src: ./pages/session2.md
 ---
 src: ./pages/session3.md
 ---
+
