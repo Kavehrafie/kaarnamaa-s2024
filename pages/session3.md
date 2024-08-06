@@ -7,6 +7,21 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Slave-ship.jpg/
 # نشست سوم:  بین المللی انتقادی (قسمت دوم)
 ## تولید هنری در عصر انقلاب صنعتی
 
+
+---
+layout: center
+dir: rtl
+---
+
+## "The field of restricted production"
+> البته آثار صنایع ظریف مثل یک ماشین اسباب تولید نیست. ولی در عین حال اسباب تولید نوع مخصوصی است.
+
+تقی ارانی{class="text-xs"}
+
+<!-- Bourdieu, Pierre. “The Market of Symbolic Goods.” 
+ “the field of restricted production,” which produces specialized goods for and by specialists and “the field of large-scale cultural production,” which produces goods for the public at large
+-->
+
 ---
 layout: center
 dir: rtl
@@ -15,6 +30,23 @@ dir: rtl
 > «آنچه ماشین میسازد بد است، زیرا کار آن صداقت ندارد.»
 
 جان راسکین{class="text-xs"}
+
+---
+layout: compare
+image1:
+    src: https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/06/karim-with-queen-victoria.jpg
+    alt: ملکه ویکتوریا و عبدالکریم، 1893
+image2:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Empire_1897.jpg/1010px-British_Empire_1897.jpg
+    alt: امپراتوری انگلیس در 1897
+    
+---
+
+---
+layout: image-caption
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Workers_in_the_fuse_factory_Woolwich_Arsenal_Flickr_4615367952_d40a18ec24_o.jpg/1024px-Workers_in_the_fuse_factory_Woolwich_Arsenal_Flickr_4615367952_d40a18ec24_o.jpg
+caption: کارگران کارخانه ای در آرسنال، اوایل قرن 19
+---
 
 ---
 layout: image-caption
@@ -132,14 +164,6 @@ dir: rtl
 ## جنبش هنر و پیشه
 
 ---
-layout: image-caption
-image: https://i0.wp.com/blog.artsper.com/wp-content/uploads/2022/03/standen-house-national-trust.jpg?w=1200&ssl=1
-caption: خانه استندن که توسط فیلیپ وب طراحی شد و بین سال های 1891 و 1894 ساخته شد
----
-
-<!-- note: morris: reunite "head and hand" -->
-
----
 layout: compare
 dir: rtl
 image1:
@@ -150,14 +174,24 @@ image2:
     alt: بروشور تبلیغاتی شرکت جوردن موری آرتی
 ---
 
+
 ---
 layout: image-caption
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Slave-ship.jpg/1280px-Slave-ship.jpg
-caption: ترنر، «کشتی بردگان»، 1840
-
+image: https://i0.wp.com/blog.artsper.com/wp-content/uploads/2022/03/standen-house-national-trust.jpg?w=1200&ssl=1
+caption: خانه استندن که توسط فیلیپ وب طراحی شد و بین سال های 1891 و 1894 ساخته شد
 ---
 
-<!-- note: exhibited at The Royal Academy of Arts in 1840 -->
+<!-- note: morris: reunite "head and hand" -->
+
+---
+layout: image-caption
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Whalers_MET_DP169567.jpg/1024px-Whalers_MET_DP169567.jpg
+caption: ترنر،نهنگداران،1845
+---
+
+<!--
+«یکی از آن تجربه یگانه است که در روبرویی با سالاد خرچنگ و این نقاسی است که به کسی دست می دهد»
+-->
 
 ---
 layout: center
@@ -169,6 +203,16 @@ dir: rtl
 
 
 راسکین{class="text-xs"}
+
+---
+layout: image-caption
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Slave-ship.jpg/1280px-Slave-ship.jpg
+caption: ترنر، «کشتی بردگان»، 1840
+
+---
+
+<!-- note: exhibited at The Royal Academy of Arts in 1840 -->
+
 
 ---
 layout: quote
@@ -201,3 +245,12 @@ dir: rtl
 
 <!-- 
 > The press, therefore, and all who pretend to lead the public taste, have not so much to direct the multitude who to go to, as what to ask for. Their business is not to tell us which is our best painter, but to tell us whether we are making our best painter do his best. -->
+
+---
+layout: center
+dir: rtl
+---
+
+> بنظر ما تمام آثار تمدن و جز آنها آثار هنر حالت مادی و جامد شده ی روحیات یک جامعه میباشد.
+
+ارانی{class="text-xs"}
