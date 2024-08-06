@@ -157,32 +157,47 @@ caption: ترنر، «کشتی بردگان»، 1840
 
 ---
 
-<!-- exhibited at The Royal Academy of Arts in 1840 -->
+<!-- note: exhibited at The Royal Academy of Arts in 1840 -->
 
 ---
-
+layout: center
+dir: rtl
 ---
+
+> ...ترنر تنها مردی هست که تا امروز توانسته نسخه کاملی از طبیعت را ارائه کند...
+> این واقعیت مادی (material truth) در حقیقت بهترین سنجش مرتبه نسبی نقاش است. 
+
+
+راسکین{class="text-xs"}
 
 ---
 layout: quote
 dir: rtl
 ---
 
-## The Whole and parts relation
-این تنها تصویر کاملی است که هم تمامیت و تأثیر کلی طبیعت و هم کمال پایان ناپذیر جزئیات طبیعت را دارد. و تنها در تلاش برای متحد کردن اینها است که یک نقاش واقعاً پیشرفت می کند. تنها با هدف قرار دادن جزئیات، او تبدیل به یک مکانیک می شود. تنها با هدف قرار دادن ژنرال ها، او به یک شیاد تبدیل می شود: سقوط او در هر دو مورد مطمئن است. بنابراین، هنرمند همیشه باید دو سؤال از خود بپرسد، اول "آیا تمام حق من است؟" ثانیاً، "آیا می توان جزئیات من را به آن اضافه کرد؟ آیا فضایی در تصویر وجود دارد که بتوانم فکر دیگری را در آن جمع کنم؟ آیا منحنی در آن وجود دارد که بتوانم آن را تعدیل کنم - خطی که بتوانم فارغ التحصیل شوم - یک جای خالی که بتوانم پر کنم؟ آیا نقطه ای وجود دارد که با هر نگاهی یا کنجکاوی، آن را بفهمد یا از بین ببرد، اگر چنین است، تصویر من ناقص است و اگر در تعدیل خط یا پر کردن جای خالی، به اثر کلی لطمه بزنم، هنر من ناقص است؟ 
-\- راسکین, p.249
+> هنرمندان ما باید به یاد داشته باشند که با عادت دادن مخاطب عام به کارهای سریع و بدون فکر، آنها را نه تنها از امکانی که هر تصور، به مثابه مطالعه، بر آنها آشکار می کند محروم می کند، بلکه به روند پالایش ذوق آسیب می زنند، و باعث می شوند تا بازاری برای کارهای دقیق تری شکل بگیرد...
+
+راسکین{class="text-xs"}
+
+---
+layout: quote
+dir: rtl
+---
+## کل و جزء
+>این تنها تصویر کاملی است که هم تمامیت و تأثیر کلی طبیعت و هم کمال پایان ناپذیر جزئیات طبیعت را دارد. و تنها در تلاش برای متحد کردن اینها است که یک نقاش واقعاً پیشرفت می کند. تنها با هدف قرار دادن [جزئیات، او تبدیل به یک مکانیک]{class="text-black bg-yellow-400"} می شود. تنها با هدف قرار دادن [کلیات، او به یک شیاد]{class="text-black bg-yellow-400"} تبدیل می شود: سقوط او در هر دو مورد قطعی است. بنابراین، هنرمند همیشه باید دو سؤال از خود بپرسد، اول "آیا کلیت من درست است؟" ثانیاً، "آیا می توان جزئیاتم را به آن اضافه کرد؟ آیا فضایی در تصویر وجود دارد که بتوانم فکر دیگری را در آن جمع کنم؟ آیا منحنی در آن وجود دارد که بتوانم آن را تعدیل کنم--خطی که بتوانم بتدریج تغییر بدم--یک جای خالی که بتوانم پر کنم؟ آیا نقطه ای وجود دارد که چشم، با زل زدن یا گوشه ی چشمی، بتواند بفهمد یا خسته شود؟ اگر چنین است، تصویر من ناقص است و اگر در تعدیل خط یا پر کردن جای خالی، به اثر کلی لطمه بزنم، هنر من ناقص است. 
+
+راسکین{class="text-xs"}
+
 <!-- > That only is a complete picture which has both the general wholeness and effect of nature, and the inexhaustible perfection of nature's details. And it is only in the effort to unite these that a painter really improves. By aiming only at details, he becomes a mechanic; by aiming only at generals, he becomes a trickster: his fall in both cases is sure . Two questions the artist has, therefore, always to ask himself,-first "Is my whole right?" Secondly, "Can my details be added to? Is there a single space in the picture where I can crowd in another thought? Is there a curve in it which I can modulate-a line which I can graduate-a vacancy I can fill? Is there a single spot which the eye, by any peering or prying, can fathom or exhaust? If so, my picture is imperfect; and if, in modulating the line or filling the vacancy, I hurt the general effect, my art is imperfect."  -->
-
-
 
 ---
 layout: quote
 dir: rtl
 ---
 ## نقد ذوق عمومی
-بنابراین، مطبوعات و همه کسانی که وانمود می‌کنند که سلایق عمومی را رهبری می‌کنند، آنقدر نمی‌توانند به انبوهی که به سراغ چه کسی مراجعه کنند، هدایت کنند، بلکه باید چه چیزی را بخواهند. کار آنها این نیست که به ما بگویند بهترین نقاش ما کدام است، بلکه این است که به ما بگویند آیا ما بهترین نقاشمان را به بهترین شکل ممکن انجام می دهیم یا خیر.
+> بنابراین، مطبوعات و همه کسانی که وانمود می‌کنند که سلایق عمومی را رهبری می‌کنند، آنقدر نمی‌توانند به انبوهی که به سراغ چه کسی مراجعه کنند، هدایت کنند، بلکه باید چه چیزی را بخواهند. کار آنها این نیست که به ما بگویند بهترین نقاش ما کدام است، بلکه این است که به ما بگویند آیا ما بهترین نقاشمان را به بهترین شکل ممکن انجام می دهیم یا خیر.
 
-\-راسکین, p. 248
+راسکین{class="text-xs"}
 
 <!-- 
 > The press, therefore, and all who pretend to lead the public taste, have not so much to direct the multitude who to go to, as what to ask for. Their business is not to tell us which is our best painter, but to tell us whether we are making our best painter do his best. -->
