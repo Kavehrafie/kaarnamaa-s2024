@@ -1,6 +1,7 @@
 .slidev-layout {
     --quote-size: 28px;
     blockquote {
+        @apply text-lg;
         border: none;
     }
 
@@ -17,9 +18,10 @@
     /*    mask-repeat: no-repeat;*/
     /*}*/
 
-    blockquote::after {
+    blockquote::before {
         content: "";
-        position: absolute;
+        display: inline-block;
+        /*position: relative;*/
         right: -35px;
         top: -10px;
         transform: rotate(180deg);

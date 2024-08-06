@@ -3,8 +3,18 @@ layout: image
 dir: rtl
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Slave-ship.jpg/1280px-Slave-ship.jpg
 ---
-## تولید هنری در عصر انقلاب صنعتی
+
 # نشست سوم:  بین المللی انتقادی (قسمت دوم)
+## تولید هنری در عصر انقلاب صنعتی
+
+---
+layout: center
+dir: rtl
+---
+
+> «آنچه ماشین میسازد بد است، زیرا کار آن صداقت ندارد.»
+
+جان راسکین{class="text-xs"}
 
 ---
 layout: image-caption
@@ -45,11 +55,79 @@ caption: جان راسکین، «ایوان کاخ دوکال»، 1850
 
 راسکین، «نقاشان مدرن»{class="text-xs"}
 
+---
+layout: compare
+image1:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Euphemia_%28%27Effie%27%29_Chalmers_%28n%C3%A9e_Gray%29%2C_Lady_Millais_by_Thomas_Richmond.jpg/671px-Euphemia_%28%27Effie%27%29_Chalmers_%28n%C3%A9e_Gray%29%2C_Lady_Millais_by_Thomas_Richmond.jpg
+    alt: افی گری، 1851
+image2:
+    src: https://upload.wikimedia.org/wikipedia/commons/4/48/Millais_Waterfall_1935-53.jpg?20111219203312
+    alt: جان اورت میلی ، آبشار یا افی در گلنفینلاس ، 1853
+---
+
+
+---
+layout: image-caption
+image: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-840_413N76J.jpg
+caption: جان اورت میلی، « اوفلیا »، 1852
+dir: rtl
+---
+
+<!--  The scene is described in Act IV, Scene VII of Hamlet in a speech by Queen Gertrude. The episode depicted is not usually seen onstage, as in Shakespeare's text it exists only in Gertrude's description. -->
+
+---
+layout: compare
+image1:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Giotto._Stigmatization_of_St_Francis._1295-1300._314x162cm._Louvre%2C_Paris.jpg/512px-Giotto._Stigmatization_of_St_Francis._1295-1300._314x162cm._Louvre%2C_Paris.jpg
+  alt: جوتو، سن فرانسیس استیگماتا(نشانه) میگیرد، قرن 13
+image2:
+  src: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-840_413N76J.jpg
+  alt: جان اورت میلی، « اوفلیا »، 1852
+---
+
+
+---
+layout: center
+---
+
+## انجمن برادری پیشارافائلی
+
+---
+layout: image-caption
+image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1722904352693602264.jpg
+caption: استاد بلام، «سنت الوی در کارگاهش»، حدود 1440 تا 1460
+---
+
+<!--
+Master of Balaam, St. Eloy in his workshop, 1440–60, engraving, 11.5 × 18.5 cm 
+-->
+
+---
+layout: compare
+image1:
+    src: https://d38ruy7cl1ctq5.cloudfront.net/sml/1722906630429459886.jpg
+    alt: براساس کاری از یان ود در استریت، اختراع چاپ ، حدودا اوایل قرن 16
+image2:
+    src: https://cdn.britannica.com/47/198847-004-BB3B4983/Salvator-Mundi-oil-walnut-panel-Leonardo-da.jpg?s=1500x700&q=85
+    alt: سالوادور موندی، در سال 2017 به قیمت 450 میلیون دلار به فروش رفت
+---
+
+---
+layout: image-caption
+image: https://smarthistory.org/wp-content/uploads/2021/07/francis-cf-copy.jpg
+caption: دو نسخه از سن فرانسیس  استیگما می گیرد از یان وان آیک، حدودا 1430
+---
+
+<!-- note: Dendrochronology reveals that both wooden panels stem from the same workshop: most likely the Philadelphia panel (left) is a workshop replica of the original Turin (right).
+Durer in his father's goldsmith workshop
+Gentilisci in her father's painting workshop
+-->
 
 ---
 layout: image-caption
 image: https://i0.wp.com/blog.artsper.com/wp-content/uploads/2022/03/1_1k6ZqrYsI-23bwHJqqBQ0Q.jpeg?w=1400&ssl=1
 caption: اتاق طاووس، طراحی شده توسط توماس جکیل و جیمز مک نیل ویستلر در سال 1877 
+dir: rtl
 ---
 ## جنبش هنر و پیشه
 
@@ -59,17 +137,18 @@ image: https://i0.wp.com/blog.artsper.com/wp-content/uploads/2022/03/standen-hou
 caption: خانه استندن که توسط فیلیپ وب طراحی شد و بین سال های 1891 و 1894 ساخته شد
 ---
 
----
-layout: image-caption
-image: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-840_413N76J.jpg
-caption: جان اورت میلی، « اوفلیا »، 1852
-dir
----
+<!-- note: morris: reunite "head and hand" -->
 
-<div  class="text-gray-500">
-
-## انجمن برادری پیشارافائلی
-</div>
+---
+layout: compare
+dir: rtl
+image1:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Thomas_Crane_Library%2C_Fireplace_in_Richardson_Room.jpg/783px-Thomas_Crane_Library%2C_Fireplace_in_Richardson_Room.jpg
+    alt: 1881 دکوراسیون داخلی، محصول شرکت دونپورت، کوینسی، ماساچوست
+image2:
+    src: https://d38ruy7cl1ctq5.cloudfront.net/sml/1722917155211535242.webp
+    alt: بروشور تبلیغاتی شرکت جوردن موری آرتی
+---
 
 ---
 layout: image-caption
@@ -79,6 +158,10 @@ caption: ترنر، «کشتی بردگان»، 1840
 ---
 
 <!-- exhibited at The Royal Academy of Arts in 1840 -->
+
+---
+
+---
 
 ---
 layout: quote
