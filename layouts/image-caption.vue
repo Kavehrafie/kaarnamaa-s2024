@@ -11,6 +11,7 @@ const props = defineProps<Props>()
 const ratio = computed(() => {
     let img = new Image();
     img.src = props.image
+    if (img.width === 0) console.log("image does not exist")
     return img.width / img.height
 })
 

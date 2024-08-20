@@ -238,14 +238,3 @@ layout: image-caption
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Courbet_LAtelier_du_peintre.jpg/1280px-Courbet_LAtelier_du_peintre.jpg
 caption: گوستاو کوربه، «استدیوی هنرمند، »، 1855
 ---
-
-
----
-layout: center
----
-
-> A painting is a machine, in which all the system are visible to a preaching eye; where everything has a reason for being, if the painting a good; where one tone is always destined to accent another; where an occasional shortcoming in drawing is sometimes necessary, to avoid sacrificing something of greater importance.
-
----
-
-> The Impressionists seemed to mark a basic new era in art primarily because they ushered in a new structure for the art world. Let us call this instituitional system the dealer-and-critic system. (2)

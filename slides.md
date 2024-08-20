@@ -12,6 +12,8 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+addons:
+  - tldraw
 html:
   dir: rtl
 fonts:
@@ -53,4 +55,8 @@ src: ./pages/session3.md
 
 ---
 src: ./pages/session4.md
+---
+
+---
+src: ./pages/session5.md
 ---
