@@ -222,7 +222,6 @@ dir: rtl
 caption: هوشنگ ایرانی، چند دسن
 ---
 
-
 ---
 dir: rtl
 layout: two-cols
