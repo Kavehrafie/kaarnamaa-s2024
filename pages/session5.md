@@ -14,7 +14,6 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/La_Barri%C3%A8r
 caption: هوراس ورنان، «سنگر کلیشی، دفاع از پاریس»، 1820
 ---
 
-
 ---
 layout: image-caption
 dir: rtl
@@ -22,11 +21,41 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Courbet_LAtelie
 caption: گوستاو کوربه، «استدیوی هنرمند، تمثیلی از هفت سال زندگی هنری و اخلاقی من »، 1855
 ---
 
+---
+layout: image-caption
+dir: rtl
+image: https://mdl.artvee.com/sftb/525051ld.jpg
+caption: نمایشگاه بین المللی، 1855
+---
+
+<!-- 
+in 1881 the state withdrew its support for salon
+-->
+
+---
+layout: compare
+image1:
+    src: https://upload.wikimedia.org/wikipedia/commons/c/c1/Poster_Salon_Soci%C3%A9t%C3%A9_nationale_des_beaux-arts_Paris_1891.png
+    alt: Salon du Champ de Mars
+image2:
+    src: https://upload.wikimedia.org/wikipedia/commons/2/21/Salon_d%27Automne%2C_1904%2C_Ambroise_Vollard%2C_Salle_C%C3%A9zanne.jpg
+    alt: نمایی از Salon d'Automne در سال 1904، عکس از امبروز ولار
+---
+
+
+---
+layout: image-caption
+image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724116920406017781.webp
+dir: rtl
+caption: کاریکاتوری که نمایشگاه Salon des Refusés را نشان می دهد، 1863
+---
+
 
 ---
 layout: image
 image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724037933241738350.jpg
 dir: rtl
+caption: نمایشگاه بین المللی، 1855
 ---
 
 ---
@@ -74,7 +103,7 @@ layout: center
 dir: rtl
 ---
 
-> در هنر به اندازه ماشین هیچ شانسی وجود ندارد. یک کشف خوشایند صرفاً نتیجه استدلال خوب است، که گاهی اوقات می‌توان استنتاج‌های میانی را حذف کرد، درست همانطور که یک اشتباه نتیجه یک اصل نادرست است. یک نقاشی یک ماشین است که در آن تمام سیستم‌ها برای چشم کارآزموده قابل مشاهده هستند؛ که همه چیز دلیلی برای هستی دارد، ...؛ که یک تُن رنگ همیشه در تأکید بر تُن رنگی دیگری است؛ که یک نقص اتفاقی در طراحی گاهی ضروری بنظر می رسد...
+> در هنر همانقدر که در ماشین هیچ عامل لتفاقی وجود ندارد. یک کشف خوشایند صرفاً نتیجه استدلال خوب است، که گاهی اوقات می‌توان استنتاج‌های میانی را حذف کرد، درست همانطور که یک اشتباه نتیجه یک اصل نادرست است. یک نقاشی یک ماشین است که در آن تمام سیستم‌ها برای چشم کارآزموده قابل مشاهده هستند؛ که همه چیز دلیلی برای هستی دارد، ...؛ که یک تُن رنگ همیشه در تأکید بر تُن رنگی دیگری است؛ که یک نقص اتفاقی در طراحی گاهی ضروری بنظر می رسد...
 
 بودلر{class="text-xs"}
 
@@ -110,6 +139,44 @@ layout: image-caption
 image: https://cdn.thecollector.com/wp-content/uploads/2022/09/roger-fry-manet-post-impressionists-exhibition.jpg
 dir: rtl
 caption: سمت چپ، راجر فرای 27 فوریه 1913. سمت راست، پوستر اولین نمایشگاه پست امپرسیونیست ها
+---
+
+---
+layout: image-caption
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SomeBloomsburymembers.jpg/1024px-SomeBloomsburymembers.jpg
+dir: rtl
+caption: وانسا بل و دانکن گرنت از راست به چپ
+---
+
+---
+layout: image-caption
+image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724163045158921850.jpg
+caption: وانسا بل، «اتاق دیگر»، اواخر 1930
+dir: rtl
+---
+
+---
+layout: compare
+image1:
+    src: https://www.artic.edu/iiif/2/2193cdda-2691-2802-0776-145dee77f7ea/full/843,/0/default.jpg
+    alt: هنری ماتیس، «اندرونی در نیس»، 1919 یا 1920
+image2:
+    src: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724163045158921850.jpg
+    alt: وانسا بل، «اتاق دیگر»، اواخر 1930
+---
+
+---
+layout: image-caption
+image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724163354507769356.jpg
+caption: وانسا بل، «تلی از علوفه»، 1912
+dir: rtl
+---
+
+---
+layout: image-caption
+image: https://upload.wikimedia.org/wikipedia/en/d/d4/Grant%2C_Self_Portrait.jpg
+caption: دانکن گرنت، «سلف پرتره»، 1920
+dir: rtl
 ---
 
 ---
@@ -171,27 +238,6 @@ dir: rtl
 
 </template>
 
-
----
-layout: image-caption
-image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724116920406017781.webp
-dir: rtl
-caption: کاریکاتوری که نمایشگاه Salon des Refusés را نشان می دهد، 1863
----
-
-<!-- 
-in 1881 the state withdrew its support for salon
--->
-
----
-layout: compare
-image1:
-    src: https://upload.wikimedia.org/wikipedia/commons/c/c1/Poster_Salon_Soci%C3%A9t%C3%A9_nationale_des_beaux-arts_Paris_1891.png
-    alt: Salon du Champ de Mars
-image2:
-    src: https://upload.wikimedia.org/wikipedia/commons/2/21/Salon_d%27Automne%2C_1904%2C_Ambroise_Vollard%2C_Salle_C%C3%A9zanne.jpg
-    alt: نمایی از Salon d'Automne در سال 1904، عکس از امبروز ولار
----
 
 <!-- 
 renoir and rodin estabdlishing the salon d'automne

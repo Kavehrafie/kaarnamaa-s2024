@@ -31,12 +31,12 @@ onMounted(() => {
 <template>
     <div class="slidev-layout relative">
         <div class="flex flex-col space-y-2" v-if="ratio > 1">
-            <img class="w-full max-h-[60svh] object-contain" :src="props.image" :alt="props.caption">
+            <img class="w-full max-h-110 object-contain" :src="props.image" :alt="props.caption">
             <p class="text-sm text-center">{{ props.caption }}</p>
         </div>
         <div class="flex space-x-2 justify-left items-end" v-else>
             <p class="text-sm rtl:text-left w-full">{{ props.caption }}</p>
-            <img class="w-full max-h-[60vh] object-contain" :src="props.image" :alt="props.caption">
+            <img class="w-full max-h-110 object-contain" :src="props.image" :alt="props.caption">
         </div>
         <div class="absolute top-10 flex left-10 rtl:right-10 rtl:left-auto items-center flex-col">
             <slot />
