@@ -197,6 +197,17 @@ dir: rtl
 <tldraw class="w-220 h-120" doc="tldraw/doc-G_d4Gt2ARaaCBygqZhO1Z.json"></tldraw>
 
 ---
+layout: image-caption
+image: https://upload.wikimedia.org/wikipedia/commons/8/84/The_Doctor_Luke_Fildes_crop.jpg
+caption: سر لوک فیلدز، «پزشک»، 1891
+---
+
+<!-- 
+"*The Doctor* is not a work of art. In it form is not used as an object of emotion, but as a means of suggesting emotions."
+clive bell
+-->
+
+---
 layout: center
 dir: rtl
 ---
@@ -331,5 +342,3 @@ layout: two-cols
 
 
 هوشتنگ ایرانی، «شناخت نوی، فرمالیسم»{class="text-xs"}
-
----
