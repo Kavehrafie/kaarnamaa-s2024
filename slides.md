@@ -64,3 +64,7 @@ src: ./pages/session5.md
 ---
 src: ./pages/session6.md
 ---
+
+---
+src: ./pages/session7.md
+---

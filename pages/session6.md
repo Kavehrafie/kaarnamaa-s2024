@@ -162,19 +162,28 @@ Alain LeRoy Locke (1885--1954)
 -->
 
 ---
-layout: center
----
-
-> Up to the present one may adequately describe the Negro’s “inner objectives” as an attempt to repair a damaged group psychology and reshape a warped social perspective. Their realization has required a new mentality for the American Negro. And as it matures we begin to see its effects; at first, negative, iconoclastic, and then positive and constructive. In this new group psychology we note the lapse of sentimental appeal, then the development of a more positive self-respect and self-reliance; the repudiation of social dependence, and then the gradual recovery from hypersensitiveness and “touchy” nerves; the repudiation of the double standard of judgment with its special philanthropic allowances, and then the sturdier desire for objective and scientific appraisal; and finally the rise from social disillusionment to race pride, from the sense of social debt to the responsibilities of social contribution, and offsetting the necessary working and commonsense acceptance of restricted conditions, the belief in ultimate esteem and recognition. Therefore, the Negro today wishes to be known for what he is, even in his faults and shortcomings, and scorns a craven and precarious survival at the price of seeming to be what he is not. He resents being spoken for as a social ward or minor, even by his own, and being regarded a chronic patient for the sociological clinic, the sick man of American Democracy. For the same reasons, he himself is through with those social nostrums and panaceas, the so-called “solutions” of his “problem,” with which he and the country have been so liberally dosed in the past. Religion, freedom, education, money—in turn, he has ardently hoped for and peculiarly trusted these things; he still believes in them, but not in blind trust that they alone will solve his life-problem.
-
-Locke{class="text-xs"}
-
----
 layout: image-caption
 image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724763204860621258.jpg
 caption: آرن داگلاس، «آرزو»، 1936
 dir: rtl
 ---
+---
+layout: center
+---
+
+> [Up to the present one may adequately describe the Negro’s “inner objectives” as an attempt to repair a damaged group psychology and reshape a warped social perspective. Their realization has required a new mentality for the American Negro.]{class="text-black bg-yellow-400"} And as it matures we begin to see its effects; [at first, negative, iconoclastic, and then positive and constructive]{class="text-black bg-blue-400"}. In this new group psychology we note the lapse of sentimental appeal, then the development of a more positive [self-respect and self-reliance]{class="text-black bg-yellow-400"}; [the repudiation of social dependence]{class="text-black bg-yellow-400"}, and then [the gradual recovery from hypersensitiveness and “touchy” nerves]{class="text-black bg-yellow-400"}; [the repudiation of the double standard of judgment with its special philanthropic allowances, and then the sturdier desire for objective and scientific appraisal]{class="text-black bg-yellow-400"}; and finally the rise from social disillusionment to race pride, from the sense of social debt to the responsibilities of social contribution, and offsetting the necessary working and commonsense acceptance of restricted conditions, the belief in ultimate [esteem and recognition]{class="text-black bg-yellow-400"}. Therefore, the Negro today wishes to be known for what he is, even in his faults and shortcomings, and scorns a craven and precarious survival at the price of seeming to be what he is not. He resents being spoken for as a social ward or minor, even by his own, and being regarded a chronic patient for the sociological clinic, the sick man of American Democracy. For the same reasons, he himself is through with those social nostrums and panaceas, the so-called “solutions” of his “problem,” with which he and the country have been so liberally dosed in the past. Religion, freedom, education, money—in turn, he has ardently hoped for and peculiarly trusted these things; he still believes in them, but not in blind trust that they alone will solve his life-problem.
+
+Locke{class="text-xs"}
+
+---
+layout: center
+---
+
+> [The Old Negro,]{class="text-black bg-blue-400"} we must remember, was a creature of moral debate and historical controversy. His has been a stock figure perpetuated as [an historical fiction partly in innocent sentimentalism,]{class="text-black bg-blue-400"} partly in deliberate reactionism. The Negro himself has contributed his share to this through a sort of [protective social mimicry forced upon him by the adverse circumstances of dependence.]{class="text-black bg-yellow-400"} So for generations in the mind of America, the Negro has been more of a formula than a human being—a something to be argued about, condemned or defended, to be “kept down,” or “in his place,” or “helped up,” to be worried with or worried over, harassed or patronized, a social bogey or a social burden. The thinking Negro even has been induced to share this same general attitude, to focus his attention on controversial issues, to see himself in the distorted perspective of a social problem. His [shadow,]{class="text-black bg-blue-400"} so to speak, has been more real to him than his [personality.]{class="text-black bg-yellow-400"} Through having had to appeal from the unjust stereotypes of his oppressors and traducers to those of his liberators, friends and benefactors he has subscribed to the traditional positions from which his case has been viewed. Little true social or self-understanding has or could come from such a situation.
+… The mind of the Negro seems suddenly to have slipped from under the tyranny of social intimidation and to be shaking off the psychology of imitation and implied inferiority. By shedding the old chrysalis of the Negro problem we are achieving something like a spiritual emancipation. Until recently, lacking self-understanding, we have been almost as much of a problem to ourselves as we still are to others. But the decade that found us with a problem has left us with only a task. The multitude perhaps feels as yet only a strange relief and a new vague urge, but the thinking few know that in the reaction the vital inner grip of prejudice has been broken.
+
+
+Locke{class="text-xs"}
 
 ---
 layout: image-right
@@ -230,31 +239,11 @@ note:
 ---
 layout: image-caption
 image: https://d38ruy7cl1ctq5.cloudfront.net/sml/1724765999899015611.webp
-caption: جرجیتا سیبروک در حال کار روی دیوارنگاره «تفریح در هارلم»، 
+dir: rtl
+caption: جرجیتا سیبروک در حال کار روی دیوارنگار«تفریح در هارلم».
 ---
 
 <!--
 Georgette Seabrooke (aka Georgette Seabrooke Powell; August 2, 1916 – December 27, 2011), was an American muralist, artist, illustrator, art therapist, non-profit chief executive and educator. She is best known for her 1936 mural, Recreation in Harlem at Harlem Hospital in New York City, which was restored and put on public display in 2012 after being hidden from view for many years. 
 
 -->
-
----
-layout: center
----
-> My chief objection to propaganda, apart from its besetting sin of monotony and disproportion, is that it perpetuates the position of group inferiority even in crying out against it. For it lives and speaks under the shadow of a dominant majority whom it harangues, cajoles, threatens, or supplicates. It is too extroverted for balance or poise or inner dignity and self-respect. Art in the best sense if rooted in self-expression and whether naïve or sophisticated is *self-contained*. ... in a word must choose art and put aside propaganda.
-
-\-Alain Locke, "Art or Propaganda"
-
-<!--
-note:
-- confront a condescending majority
-- Harlem, Vol. I, No. 1 November 1928
--->
-
----
-layout: center
----
-> Our espousal of art thus becomes no mere idle acceptance of "art for art's sake," or cultivation of the last decadences of the overcivilized, but rather a deep realization of the fundamental purpose of art and of its function as a tap root of vigorous, flourishing living. ...
-> Propaganda itself is preferable to shallow, truckling imitation.
-
-\-Alain Locke, "Art or Propaganda"
